@@ -109,25 +109,3 @@ A comprehensive list of symbols and exchanges can be found at [TradingView Datab
 └── README.md                 # Project documentation
 ```
 
----
-
-## **Contributing**
-
-We welcome contributions to enhance the functionality of AI Stock Trader. To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description.
-
----
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-## **Contact**
-
-For any questions or inquiries, please contact:
-
-- **Christopher Bulat**: [rubydemon3131@gmail.com](mailto:ianharding@example.com)
