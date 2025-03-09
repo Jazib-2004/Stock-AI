@@ -7,7 +7,7 @@ import sys
 
 def main(symbol, exchange, title, filename):
     logging.info("Starting the application...")
-
+    print(f"Received parameters: symbol={symbol}, exchange={exchange}, title={title}, filename={filename}")
     # Set up file paths based on the given filename, symbol, and exchange
     ohlcv_file, signal_system_file = setup_file_paths(filename, symbol, exchange)
 
