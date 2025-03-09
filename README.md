@@ -9,9 +9,6 @@
 - [Configuration](#configuration)
 - [Adding Symbols and Exchanges](#adding-symbols-and-exchanges)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
